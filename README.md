@@ -1,5 +1,6 @@
 # meu-primeiro-pull-request
 Repositório criado para atividade no Moodle
+## Semestre 2026/1
 - Eliane
 - Gabrielli
 - Gessica
@@ -9,3 +10,13 @@ Repositório criado para atividade no Moodle
 - Miguel
 - Thiago
 - Vitor
+## Semestre 2026/2
+- Henrique
+- Julia
+- Miguel
+- Vitor
+- Felipe
+- Alexandre
+- Angelina
+- Regis
+- Katia
